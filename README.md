@@ -11,9 +11,9 @@ The project provides a user with bikeshare data covering New York City, Chicago 
 The user is provided a series of key stats for the filtered data, and has the option to view raw data for their selected city.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv  
+new_york_city.csv  
+washington.csv  
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
