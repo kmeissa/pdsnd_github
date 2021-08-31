@@ -16,4 +16,4 @@ new_york_city.csv
 washington.csv  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/33191744/how-to-add-new-line-in-markdown-presentation
