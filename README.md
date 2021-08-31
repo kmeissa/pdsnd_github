@@ -3,11 +3,12 @@
 ### Date created
 2021-08-13
 
-### Project Title
-Replace the Project Title
+### Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+The project provides a user with bikeshare data covering New York City, Chicago or Washington. The terminal asks the user to select a city, then provides the user with optional filters for month and day.
+
+The user is provided a series of key stats for the filtered data, and has the option to view raw data for their selected city.
 
 ### Files used
 Include the files used
