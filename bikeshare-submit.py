@@ -218,7 +218,7 @@ def raw_data(df):
         No to exit
         Enter (or any other input) to continue
     Returns:
-        5 lines of df (Pandas DataFrame)
+        5 lines of df (Pandas DataFrame) from original source data
     """
 
     print("\nWould you like to view some raw data?")
